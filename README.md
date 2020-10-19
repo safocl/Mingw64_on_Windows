@@ -17,4 +17,4 @@ $ pacman -S mingw-w64-x86_64-toolchain mingw-w64-x86_64-cmake
 the required components are now installed.
 you need to run mingw64 or create a shortcut to the desktop.
 
-you need set the PATH variable in settings environment variables be adding '[path to msys2 install folder]/mingw64' for detect the compiler by other programs.
+You need to set the PATH variable in the environment variable settings by adding '[path to msys2 installation folder]/mingw64' to detecting the compiler by other programs.
